@@ -1,0 +1,1 @@
+[engine:junit-jupiter]/[class:com.Project.SpringAngular.SpringAngularApplicationTests]/[method:contextLoads()]
